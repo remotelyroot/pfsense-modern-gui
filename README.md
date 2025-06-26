@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-![Screenshot](assets/demo-preview.png)
+![Screenshot](pfsense-modern.png)
 
 ## 📦 Installation
 
