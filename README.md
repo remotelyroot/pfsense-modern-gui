@@ -25,6 +25,6 @@
 4. Create a new file using: `vi pfSense-modern.css`
 5. Paste `(CTRL/CMD+V)`
 6. Head over to the pfSense settings GUI
-7. Navigate to: `Settings->General Setup->Theme`, you should see a new option the dropdown: `pfSense-modern` <img width="641" alt="image" src="https://github.com/user-attachments/assets/c3961f4f-e5f6-43a2-84ff-f1125880319b" />
+7. Navigate to: `Settings->General Setup->Theme`, you should see a new option the dropdown: `pfSense-modern` <img src="/settings.png" alt="settings UI" width="500"/>
 8. Select it, save and reload!
 9. Star this repo! 🙂
