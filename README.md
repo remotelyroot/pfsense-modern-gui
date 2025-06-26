@@ -19,8 +19,12 @@
 
 ## 📦 Installation
 
-1. Clone or download this repo.
-2. Copy `pfsense-modern.css` to your pfSense box at `/usr/local/www/css/`.
-3. Apply it via `Diagnostics > Command Prompt`:
-   ```sh
-   cp /usr/local/www/css/pfsense-modern.css /usr/local/www/css/pfSense.css
+1. Open the "raw" version of `pfsense-modern.css` by clicking [here](https://raw.githubusercontent.com/remotelyroot/pfsense-modern-gui/refs/heads/main/pfsense-modern.css).
+2. Select everything `(CTRL/CMD+A)`, copy to clipboard `(CTRL/CMD+C)`
+3. ssh into your pfSense box and navigate to `/usr/local/www/css`.
+4. Create a new file using: `vi pfSense-modern.css`
+5. Paste `(CTRL/CMD+V)`
+6. Head over to the pfSense settings GUI
+7. Navigate to: `Settings->General Setup->Theme`, you should see a new option the dropdown: `pfSense-modern` <img src="/settings.png" alt="settings UI" width="500"/>
+8. Select it, save and reload!
+9. Star this repo! 🙂
