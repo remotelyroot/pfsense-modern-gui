@@ -1,3 +1,6 @@
+![pfSense Modern GUI](/pfsense-modern-banner.png)
+
+
 # pfSense Modern GUI
 
 🎨 A sleek, fully redesigned front-end for pfSense — optimized for 2025 and beyond.
